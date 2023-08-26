@@ -24,9 +24,8 @@ MBTI: ISTP-T
 
 ### Связь со мной
 
-Telegram: [@justnaxe](http://justnaxe.t.me/)
-
-Matrix: [naxewore:matrix.org](mailto:matrix.to/#/@naxewore:matrix.org)
+Telegram: [@justnaxe](https://t.me/iamnaxe/709
+Matrix: [naxewore:matrix.org](https://matrix.to/#/@naxewore:matrix.org)
 
 Discord: justnaxe (Ранее: naxewore#0101)
 
@@ -38,15 +37,11 @@ E-Mail: [justnaxe@proton.me](mailto:justnaxe@proton.me)
 
 ### Остальные ссылки:
 
-OpenVK: @nax
+OpenVK: [@nax](https://openvk.su/nax)
 
-Telegram канал: @iamnaxe
+Telegram канал: [@iamnaxe](https://t.me/iamnaxe/709)
 
-Telegram канал "для своих": [t.me/+jDk2...](https://t.me/+jDk2Sarc11JiMzgy)
-
-Техно-канал: [@technobiba](http://technobiba.t.me/)
-
-Mastodon: [@naxewore@mastodon.ml](mailto:mastodon.ml/@naxewore)
+Mastodon: [@naxewore@mastodon.ml](https://mastodon.ml/@naxewore)
 
 GitHub: [@justnaxe](github.com/justnaxe)
 
