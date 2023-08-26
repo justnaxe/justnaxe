@@ -20,7 +20,7 @@
 
 **How you can reach me:**
 
-* You can find me in Telegram at [@naxewore](naxewore.t.me).
+* You can find me in Matrix at [@naxewore:matrix.org](https://matrix.to/#/@naxewore:matrix.org).
 * You can also reach me on Mastodon on [@naxewore@mastodon.ml](mastodon.ml/@naxewore).
 
 **Let's collaborate! 🚀**
