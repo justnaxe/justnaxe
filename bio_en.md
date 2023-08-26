@@ -1,12 +1,12 @@
-# About Me
+# Personal Introduction
 
-## Greetings!
+## Greetings,
 
-Welcome, dear friend! It's time to introduce myself since you've stumbled upon here :]
+Welcome, esteemed individual. I appreciate this opportunity to share a brief overview of myself, considering your presence here.
 
-### Let's Get Acquainted!
+### Allow Me to Introduce Myself
 
-My name is Pavel, but in the online world, please refer to me by my nickname.
+I am addressed as Pavel, although within online spheres, I prefer to be referred to by my chosen username.
 
 Pronouns: He/Him
 
@@ -14,53 +14,32 @@ MBTI: ISTP-T
 
 Languages: Russian (native), English (B2|CEFR)
 
-### Who Am I?
+### Self-Identification
 
-I am an unassuming young man from the northern part of Tambov region (Russia). I am 15 years old. While that could be a satisfactory conclusion, I'd like to share that I dabble a bit in playing the guitar (and also create some stuff in FL Studio), and I'm quite into collecting rather old electronics.
+I am an unpretentious young gentleman hailing from the northern reaches of Tambov Oblast. I am currently 15 years of age. Although this could serve as an adequate endpoint, I am inclined to divulge my interests, which include limited engagement with guitar playing (alongside some experimentation within FL Studio) and a penchant for the collection of antiquated electronic devices.
 
-### Contacts
+### Contact Information
 
 Telegram: [@justnaxe](http://justnaxe.t.me/)
 
 Matrix: [naxewore:matrix.org](mailto:matrix.to/#/@naxewore:matrix.org)
 
-Discord: justnaxe (Formerly: naxewore#0101)
+Discord: justnaxe (Previously: naxewore#0101)
 
-Jabber: naxewore1@jabber.ru (Not in use)
+Jabber: naxewore1@jabber.ru (Currently inactive)
 
 E-Mail: [justnaxe@proton.me](mailto:justnaxe@proton.me)
 
-### Other Links:
+### Additional References:
 
-OpenVK: @nax
+OpenVK: [@nax](openvk.su/nax)
 
-Telegram Channel: @iamnaxe
+Telegram Channel: [@iamnaxe](iamnaxe.t.me)
 
-Telegram Channel "for insiders": [t.me/+jDk2...](https://t.me/+jDk2Sarc11JiMzgy)
+Telegram Channel "for a select audience": [t.me/+jDk2...](https://t.me/+jDk2Sarc11JiMzgy)
 
 Tech Channel: [@technobiba](http://technobiba.t.me/)
 
 Mastodon: [@naxewore@mastodon.ml](mailto:mastodon.ml/@naxewore)
 
 GitHub: [@justnaxe](github.com/justnaxe)
-
-### Music I Listen To
-
-> XXXTENTACION
-> BVDLVD
-> Lil Darkie
-> OMINVS
-> ISSBROKIE
-> MSI
-> Sparks
-> Grad!ent
-> Anacondaz
-> Give Me a Tank(!)
-> PUPPIES
-> Agatha Christie
-> Nerves
-> Splin
-> ssshhhiiittt!
-> Arctic Monkeys
-> Ghost
-> Cage The Elephant
