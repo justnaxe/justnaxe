@@ -16,7 +16,7 @@ Languages: Russian (native), English (B2|CEFR)
 
 ### Self-Identification
 
-I am an unpretentious young gentleman hailing from the northern reaches of Tambov Oblast. I am currently 15 years of age. Although this could serve as an adequate endpoint, I am inclined to divulge my interests, which include limited engagement with guitar playing (alongside some experimentation within FL Studio) and a penchant for the collection of antiquated electronic devices.
+I am an unpretentious young gentleman hailing from the northern reaches of Tambov region(or state dunno i dont care). I am currently 15 years of age. Although this could serve as an adequate endpoint, I am inclined to divulge my interests, which include limited engagement with guitar playing (alongside some experimentation within FL Studio) and a penchant for the collection of antiquated electronic devices.
 
 ### Contact Information
 
