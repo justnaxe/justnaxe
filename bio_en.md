@@ -1,44 +1,42 @@
-# Personal Introduction
+# About Me
 
-## Greetings,
+## Hey there, pal! Time to let you in on a little secret about yours truly – now that you've stumbled upon this corner of the internet :]
 
-Welcome, esteemed individual. I appreciate this opportunity to share a brief overview of myself, considering your presence here.
+### Let's dive in, shall we?
 
-### Allow Me to Introduce Myself
-
-I am addressed as Pavel, although within online spheres, I prefer to be referred to by my chosen username.
+They call me Pavel, but in the online realms, I'm known by my electrifying nickname.
 
 Pronouns: He/Him
 
 MBTI: ISTP-T
 
-Languages: Russian (native), English (B2|CEFR)
+Languages: Russian (fluent), English (B2|CEFR)
 
-### Self-Identification
+### So, who's this guy?
 
-I am an unpretentious young gentleman hailing from the northern reaches of Tambov region(or state dunno i dont care). I am currently 15 years of age. Although this could serve as an adequate endpoint, I am inclined to divulge my interests, which include limited engagement with guitar playing (alongside some experimentation within FL Studio) and a penchant for the collection of antiquated electronic devices.
+I'm just your everyday dude from the expanses of northern Tambov state. Sweet fiveteen and counting. But hey, here's the twist – I tinker with the guitar (not a rockstar yet, but watch out!) and whip up some experimental concoctions in FL Studio. Oh, and did I mention I've got a soft spot for the ancient electronics?
 
-### Contact Information
+### Hit me up!
 
 Telegram: [@justnaxe](http://justnaxe.t.me/)
 
 Matrix: [naxewore:matrix.org](mailto:matrix.to/#/@naxewore:matrix.org)
 
-Discord: justnaxe (Previously: naxewore#0101)
+Discord: justnaxe (Formerly: naxewore#0101)
 
-Jabber: naxewore1@jabber.ru (Currently inactive)
+Jabber: naxewore1@jabber.ru (Currently in hibernation)
 
 E-Mail: [justnaxe@proton.me](mailto:justnaxe@proton.me)
 
-### Additional References:
+### Explore more of me:
 
 OpenVK: [@nax](openvk.su/nax)
 
-Telegram Channel: [@iamnaxe](iamnaxe.t.me)
+Telegram den: {@iamnaxe](iamnaxe.t.me)
 
-Telegram Channel "for a select audience": [t.me/+jDk2...](https://t.me/+jDk2Sarc11JiMzgy)
+Exclusive Telegram haven: [t.me/+jDk2...](https://t.me/+jDk2Sarc11JiMzgy)
 
-Tech Channel: [@technobiba](http://technobiba.t.me/)
+Tech aficionado zone: [@technobiba](http://technobiba.t.me/)
 
 Mastodon: [@naxewore@mastodon.ml](mailto:mastodon.ml/@naxewore)
 
