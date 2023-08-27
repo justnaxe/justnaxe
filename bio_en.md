@@ -4,7 +4,7 @@
 
 ### Let's dive in, shall we?
 
-They call me Pavel, but in the online realms, I'm known by my electrifying nickname.
+They call me Pavel, but in the online realms, I'm known by my electrifying nickname (naxe, in case you haven't realized).
 
 Pronouns: He/Him
 
