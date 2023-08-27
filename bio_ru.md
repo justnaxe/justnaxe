@@ -24,7 +24,8 @@ MBTI: ISTP-T
 
 ### Связь со мной
 
-Telegram: [@justnaxe](https://t.me/iamnaxe/709
+Telegram: [@justnaxe](justnaxe.t.me)
+
 Matrix: [naxewore:matrix.org](https://matrix.to/#/@naxewore:matrix.org)
 
 Discord: justnaxe (Ранее: naxewore#0101)
